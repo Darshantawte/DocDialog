@@ -1,4 +1,4 @@
-# DocAI
+# DocDialog
 RAG Q&amp;A application with PDF upload using GroqAI and Chat History 
 uses Gemma:2b 9billion parameters opensource LLM model with HuggingFace for embedding layer
 
